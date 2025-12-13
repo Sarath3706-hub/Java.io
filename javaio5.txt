@@ -1,7 +1,0 @@
-public class Main
-{
-	public static void main(String[] args) {
-		double a = 3.33;
-		System.out.println("The given fractional number is : "+a);
-	}
-}
